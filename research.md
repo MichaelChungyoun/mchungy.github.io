@@ -1,6 +1,9 @@
-## Research
+---
+layout: page
+title: Research
+---
 
-### Current Research Work
+### Current Research Projects
 
 My current research projects involve utilizing advancements in denoising diffusion probabilistic models and natural language processing to design powerful therapeutic antibody candidates. Some of my current projects include:
 * A diffusion model that jointly diffuses antibody sequence identity, residue coordinates, and residue orientations for applications in antibody design
