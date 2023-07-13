@@ -3,7 +3,8 @@ title: Michael Chungyoun 🇫🇷 🇲🇺
 author:
   name: Michael Chungyun
   email: mchungy1@jhu.edu
-description: "GitHub](https://github.com/MichaelChungyoun). [Twitter](https://twitter.com/MikeyChungyoun)."
+  twitter_username: MikeyChungyoun
+  github_username: MichaelChungyoun
 
 # Build settings
 remote_theme: jekyll/minima
