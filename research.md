@@ -23,3 +23,9 @@ My ongoing research focuses on leveraging advancements in `denoising diffusion p
 **Enzymatic protection and biocompatibility screening of enzyme-loaded polymeric nanoparticles for neurotherapeutic applications**. Rick Liao, Jessica Pon, Michael Chungyoun, Elizabeth Nance. Biomaterials, 2020. [**link**](https://doi.org/10.1016/j.biomaterials.2020.120238)
 
 **N-glycosylation of α1d-adrenergic receptor N-terminal domain is required for correct trafficking, function, and biogenesis**. Eric M. Janezic, Sophia My-Linh Lauer, Robert George Williams, Michael Chungyoun, Kyung-Soon Lee, Edelmar Navaluna, Ho-Tak Lau, Shao-En Ong and Chris Hague. Scientific Reports, 2020. [**link**](https://doi.org/10.1038/s41598-020-64102-4)
+
+### Provisional Patents
+
+**Hybrid Protein Design**. (Genentech authors anonymous while pending), Michael Chungyuon, inventors. Genentech Global Patent Operations Team, assignee. United States Provisionl Patent application, submitted 2022 July 7.
+
+**Three-Sensor Unobtrusive Blood Pressure Monitoring Device**. Michael Chungyoun, Audrey Shin, Huang Peng, Shiraz Shahukar. CoMotion at the University of Washington, assignee. United States Provisional Patent 63/193,509. Submitted 2021 May 26.
