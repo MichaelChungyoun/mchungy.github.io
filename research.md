@@ -26,6 +26,6 @@ My ongoing research focuses on leveraging advancements in `denoising diffusion p
 
 ### Provisional Patents
 
-**Hybrid Protein Design**. (Genentech authors anonymous while pending), Michael Chungyuon, inventors. Genentech Global Patent Operations Team, assignee. United States Provisionl Patent application, submitted 2022 July 7.
+**Hybrid Protein Design**. (Genentech authors anonymous while pending), Michael Chungyuon, inventors. Genentech Global Patent Operations Team, assignee. United States Provisionl Patent application. Submitted 2022 July 7.
 
 **Three-Sensor Unobtrusive Blood Pressure Monitoring Device**. Michael Chungyoun, Audrey Shin, Huang Peng, Shiraz Shahukar. CoMotion at the University of Washington, assignee. United States Provisional Patent 63/193,509. Submitted 2021 May 26.
