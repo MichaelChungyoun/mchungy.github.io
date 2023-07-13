@@ -9,3 +9,5 @@ Here's some more info [about me](about.md), details about [my current research p
 [👨‍💻 GitHub](https://github.com/MichaelChungyoun),  [🐦 Twitter](https://twitter.com/MikeyChungyoun), and [👨‍🎓 Google Scholar](https://scholar.google.com/citations?user=a8pYjvIAAAAJ&hl=en)
 
 ![GIF Description](SHARPIN_protein.gif)
+
+For the curious reader... the figure above shows the binding of the neutralizing monoclonal antibody MW07 to the receptor binding domain of the SARS-CoV-2 Spike protein (PDB 7DK2). I re-designed the antibody's complementarity determining region loops using an antibody-specific diffusion model, and the resulting re-designed antibody exhibits enhanced therapeutic qualities.
