@@ -7,4 +7,7 @@ author:
   github_username: MichaelChungyoun
 
 # Build settings
-remote_theme: jekyll/minima
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
