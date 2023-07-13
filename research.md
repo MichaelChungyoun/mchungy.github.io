@@ -5,7 +5,7 @@ title: Research
 
 ### Current Research Projects
 
-My ongoing research focuses on leveraging advancements in `denoising diffusion probabilistic models` and `natural language processing` to develop highly effective `therapeutic antibody candidates`. Here are a few of the projects I am currently working on:
+My ongoing research focuses on leveraging advancements in `denoising diffusion probabilistic models` and `large language models` to develop highly effective `therapeutic antibody candidates`. Here are a few of the projects I am currently working on:
 * Development of a `diffusion model` that jointly diffuses antibody sequence identity, residue coordinate, and residue orientation for applications in antibody design
 * Comparitive analysis of protein design performance using `state space models`, `GPT-style transformers`, and `linear complexity transformers`
 * Creation of a benchmark to asses the ability of `large protein language models` in capturing the biophysical properties of therapeutic antibodies
