@@ -1,0 +1,9 @@
+# Site settings
+title: Great New Blog Title
+author:
+  name: Michael Chungyun
+  email: mchungy1@jhu.edu
+description: "Great site about Jekyll on GH-Pages. For Michael Chungyoun"
+
+# Build settings
+remote_theme: jekyll/minima
