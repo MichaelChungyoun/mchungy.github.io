@@ -6,7 +6,7 @@ Hello! I am a PhD student at Johns Hopkins University using machine learning to 
 
 Here's some more [info about me](about.md), details about [my current research projects](research.md), news related to [my AI education outreach endeavors](outreach.md), and [my resume](resume.md).
 
-[👨‍💻 GitHub](https://github.com/MichaelChungyoun),  [🐦 Twitter](https://twitter.com/MikeyChungyoun), and [👨‍🎓 Google Scholar](https://scholar.google.com/citations?user=a8pYjvIAAAAJ&hl=en)
+[👨‍💻 GitHub](https://github.com/MichaelChungyoun),  [🐦 Twitter](https://twitter.com/MikeyChungyoun), [👨‍🎓 Google Scholar](https://scholar.google.com/citations?user=a8pYjvIAAAAJ&hl=en), and [LinkedIn](https://www.linkedin.com/in/mfc12/)
 
 <div style="display: flex; justify-content: center;">
   <img src="biorender_ab_30f.gif" alt="GIF Description">
