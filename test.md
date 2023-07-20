@@ -3,15 +3,6 @@ layout: page
 title: test
 ---
 
-<!-- Add custom CSS to remove table borders -->
-<style>
-table {
-  border-collapse: collapse;
-}
-td, th {
-  border: none;
-}
-</style>
+<img align="right" width="100" height="100" src="face.png">
 
-| Hello! My name is Michael. | ![Face](face.png) |
-|:--------------------------:|:-----------------:|
+This is example text next to my image. This is example text next to my image. This is example text next to my image. v This is example text next to my image. This is example text next to my image. This is example text next to my image. This is example text next to my image. This is example text next to my image. This is example text next to my image.
