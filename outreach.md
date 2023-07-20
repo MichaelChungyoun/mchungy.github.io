@@ -13,6 +13,6 @@ While at Johns Hopkins, I continue to develop outreach events in the surrounding
 
 ## Cutting-edge computational biology for undergraduate students
 
-In summer 2023, I teamed up with four other PhD students to teach PyRosetta and deep learning tools in biomolecular structure prediction and design for 28 undergraduate students in preparation for their summer research. We covered various topics related to protein structure, energetics, and conformational searching. We provided hands-on tutorials for breaking down and using AlphaFold, ProteinMPNN, IgLM, Chroma, and RFDiffusion.
+In summer 2023, I teamed up with four other PhD students to teach PyRosetta and deep learning tools in biomolecular structure prediction and design for 28 undergraduate students in preparation for their summer research. We covered various topics related to protein structure, energetics, and conformational searching. We provided hands-on tutorials for breaking down and using `AlphaFold`, `ProteinMPNN`, `IgLM`, `Chroma`, and `RFDiffusion`.
 
 <iframe src="https://twitter.com/jeffreyjgray/status/1667242578209820672" width="100%" height="400px"></iframe>
