@@ -3,7 +3,7 @@ layout: page
 title: Outreach
 ---
 
-I have loved feeling empowered and fulfilled by conducting research, and so a goal of mine has been to create similar opportunities and experiences for younger scientists too. `Click the preview image below to learn more!`
+I have felt empowered and fulfilled by conducting research, and so a goal of mine has been to create similar opportunities and experiences for younger scientists. `Click the preview images below to learn more!`
 
 ### AI in K-12
 
