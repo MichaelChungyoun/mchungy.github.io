@@ -14,7 +14,7 @@ My ongoing research focuses on leveraging advancements in `denoising diffusion p
 
 **Thermostability enhancement of GH 62 α-L-arabinofuranosidase by directed evolution and rational design**. Manoela Martins, Alberto Santos, Clauber Costa, Samuel W. Canner, <ins>Michael Chungyoun</ins>, et al. American Chemical Society (ACS) Catalysis, 2023. *Under Review*.
 
-**FLAb: Benchmarking deep learning methods for antibody fitness prediction**. <ins>Michael Chungyoun</ins>, Jeffrey Ruffolo, and Jeffrey Gray. NeurIPS, 2023. *Under Review*.
+**FLAb: Benchmarking deep learning methods for antibody fitness prediction**. <ins>Michael Chungyoun</ins>, Jeffrey Ruffolo, and Jeffrey Gray. NeurIPS - Machine Learning in Structural Biology Workshop, 2023. *Under Review*.
 
 **AI Models for Protein Design are Driving Antibody Engineering**. <ins>Michael Chungyoun</ins>, Jeffrey Gray. Current Opinion in Biomedical Engineering, 2023. [**link**](https://authors.elsevier.com/a/1hMZ98nGiGLFFe)
 
